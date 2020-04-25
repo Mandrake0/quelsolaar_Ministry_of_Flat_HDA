@@ -1,0 +1,13 @@
+{
+    "path": "/path/to/folder", 
+    "env": [
+        {
+            "PATH": {
+                "method": "prepend", 
+                "value": [
+                    "/path/to/folder"
+                ]
+            }
+        }
+    ]
+}
