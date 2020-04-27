@@ -4,13 +4,19 @@ Simple HDA over Commandline Interface with Quelsolaar Ministry of Flat
 
 ## Development
 
-Currently under Development just don't use it. Doesn't work!
+Currently under Development.
 
 
 ## Installation
 
-Use the Package JSON file for Houdini. 
-You need to set the path Manualy in the file.
+1. Download Git Repository
+2. copy the quelsolaar.json to the sub Houdini User Folder: package [Houdini Doc](http://www.sidefx.com/docs/houdini/ref/plugins.html) 
+3. change the path inside the quelsolaar.json to this Folder
+4. Run Houdini
+
+## Video
+
+[Demo](https://vimeo.com/412486255)
 
 ## Images
 
